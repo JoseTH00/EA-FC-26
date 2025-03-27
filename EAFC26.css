@@ -1,3 +1,18 @@
 h1 {
     text-align: center;
 }
+
+img {
+    margin: auto;
+    display: block;
+    width: 30%;
+    height: 30%;
+}
+
+p {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    display: block;
+    font-size: large;
+}
