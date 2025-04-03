@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\EA-FC-26.appweb.props" />
-</Project>
