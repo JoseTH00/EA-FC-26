@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EA-FC-26.appweb.props" />
+</Project>
