@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EA-FC-26", "EA-FC-26", "{582E13CF-8532-E3D4-5BA4-340343943E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA-FC-26.appweb", "EA-FC-26\EA-FC-26.appweb\EA-FC-26.appweb.csproj", "{34A37E82-9D3A-E0C6-5A0D-C0384C253163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34A37E82-9D3A-E0C6-5A0D-C0384C253163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A37E82-9D3A-E0C6-5A0D-C0384C253163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A37E82-9D3A-E0C6-5A0D-C0384C253163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A37E82-9D3A-E0C6-5A0D-C0384C253163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{34A37E82-9D3A-E0C6-5A0D-C0384C253163} = {582E13CF-8532-E3D4-5BA4-340343943E0D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33AD40CD-B1EA-4E65-96EE-766CD1982838}
+	EndGlobalSection
+EndGlobal
